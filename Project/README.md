@@ -1,6 +1,6 @@
 Project for Getting and Cleaning Data
 =====================================
-Author: Benjamin Chan (https://github.com/benjamin-chan/GettingAndCleaningData)
+Author: Giovanni Turra (https://github.com/quej07/GettingAndCleaningData)
 
 
 Parameters for the project
